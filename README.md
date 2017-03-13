@@ -1,0 +1,2 @@
+# MyReader
+Primeiro projeto ionic
